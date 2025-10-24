@@ -11,3 +11,5 @@ Visual Studio Code (o cualquier editor compatible con Python)
 Librería Faker
 - primero instalar la libreria faker desde la terminal con el comando: pip install faker
 - Ahora solamente clonar el repositorio.
+Link del documento:
+https://docs.google.com/document/d/1KDDk3lQdddNW0LrhSunJfDwhozn7el4f/edit?usp=drivesdk&ouid=118082230163726394633&rtpof=true&sd=true
